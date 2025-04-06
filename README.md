@@ -6,15 +6,10 @@ This is a responsive **Netflix homepage clone** built using only **HTML** and **
 
 - Responsive layout (Mobile, Tablet, Desktop)
 - Netflix-style hero section with background image and overlay
-- Navigation bar with logo and menu links
+- Navigation bar with logo and signin button
 - Styled call-to-action buttons
 - Footer with basic links and layout
 - Clean and modular codebase
-
-## 📸 Preview
-
-![Netflix Clone Screenshot](preview.png)  
-> *Optional: Add a screenshot or GIF of your project here*
 
 ## 🚀 Technologies Used
 
